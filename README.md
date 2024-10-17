@@ -1,5 +1,7 @@
 # React + Vite
 
+Used a react template for Coding Temple assignment 2 in the React Module
+_____
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
